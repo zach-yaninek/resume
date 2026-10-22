@@ -14,8 +14,10 @@ Zachary Yaninek's resume on the MIT Sloan MBAn 2027 template.
 python3 build_resume.py --pdf
 
 # full build for submission; keep it out of this public repo
-python3 build_resume.py --phone XXX-XXX-XXXX --out ~/private/Yaninek_Zachary_MBAn2027_Resume.docx --pdf
+python3 build_resume.py --content resume.private.json --phone XXX-XXX-XXXX --out ~/private/Yaninek_Zachary_MBAn2027_Resume.docx --pdf
 ```
+
+`resume.json` carries a public description of Teleos Labs. The submitted resume's full Teleos entry lives in `resume.private.json`, which is gitignored along with `private/`.
 
 PDF conversion uses LibreOffice. Without Times New Roman installed it substitutes the metric-compatible Liberation Serif, so line breaks match Word. Export the PDF you submit to Career Central from Word.
 

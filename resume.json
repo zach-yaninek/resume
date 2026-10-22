@@ -1,0 +1,81 @@
+{
+ "header": {
+  "name": "ZACHARY YANINEK",
+  "location": "Cambridge, MA",
+  "contact_line": "zachyan@mit.edu | github.com/zach-yaninek | zachyaninek.me"
+ },
+ "education": [
+  {
+   "org": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY, SLOAN SCHOOL OF MANAGEMENT",
+   "location": "Cambridge, MA",
+   "degree_line": "Candidate for Master of Business Analytics, Operations Research Center, August 2027",
+   "dates": "2026 - Present",
+   "bullets": [
+    "Coursework: Machine Learning, Optimization Methods, Advanced Analytics Edge, Analytics Lab",
+    "Machine Learning Project (MIT Sundai Hack): Built and deployed glucose app; XGBoost R² rose from 0.21 to 0.31 for unseen participants by adding fasting labs to meal log and pre-meal glucose (1,382 meals; FastAPI, React)",
+    "AI Agent Project (MIT AI Studio): Designed NANDA Town multi-agent fault test; all messages from 1 of 4 agents arrived garbled, yet both validators passed, checking what was sent, not what arrived; opened pull request proposing fix",
+    "Clubs: MIT Sloan Healthcare Club, MIT Figure Skating Club, Sundai Club"
+   ]
+  },
+  {
+   "org": "PRINCETON UNIVERSITY",
+   "location": "Princeton, NJ",
+   "degree_line": "B.S.E. in Operations Research and Financial Engineering, summa cum laude, GPA 3.96/4.00",
+   "dates": "2022 - 2026",
+   "bullets": [
+    "Honors: Phi Beta Kappa, Tau Beta Pi, Sigma Xi, Kenneth H. Condit Prize, Fulbright France grant (declined)",
+    "Teaching: Undergraduate Course Assistant for calculus and linear algebra (2024 - 2026); Minor in French"
+   ]
+  }
+ ],
+ "technical_skills": [
+  "Machine Learning & Optimization: Python (PyTorch, XGBoost, scikit-learn, Optuna), Gurobi, PyEPO, CVXPY",
+  "Deployment & AI Tools: FastAPI, React, Docker, SQL (SQLite), LLM agents (MCP), Claude Code, Codex"
+ ],
+ "experience": [
+  {
+   "org": "TELEOS LABS",
+   "location": "Cambridge, MA",
+   "description": "AI startup giving families one record of aging parent's care across home, hospital, and assisted living",
+   "title": "Co-founder & CEO",
+   "dates": "2026 - Present",
+   "bullets": [
+    "Led research interviews with family caregivers and care and health-system professionals; families asked for passive observation over task assignment, which set product's core design",
+    "Defined product in which AI agents keep record current from what caregivers and providers already produce, cite source of every entry, and leave access decisions to person or legal representative",
+    "Directed AI coding agents (Claude Code, Codex) to build and deploy synthetic-data prototype from written specs, reviewing every change (Python, SQLite, MCP, Docker)"
+   ]
+  },
+  {
+   "org": "PRINCETON UNIVERSITY",
+   "location": "Princeton, NJ",
+   "description": "Machine learning and optimization for scheduling stroke patients' CT scans in neuro ICU",
+   "title": "Senior Thesis Researcher (Advisor: Prof. Bartolomeo Stellato; in collaboration with Prof. Agni Orfanoudaki, Oxford)",
+   "dates": "2025 - 2026",
+   "bullets": [
+    "Lowered decision regret 35% vs MSE-trained network and captured 79.3% of oracle reward vs 68-71% for other ML models by training PyTorch network end-to-end through Gurobi optimizer (decision-focused learning, PyEPO)",
+    "Simulated 30-patient neuro ICU over 1,000 hours, replaying held-out patients from 674-patient dataset, to evaluate scan policies under scanner breakdown and data drift; tuned models with 60-trial Optuna searches",
+    "Adjusted for clinician selection bias in training targets with inverse propensity weighting (scikit-learn)"
+   ]
+  },
+  {
+   "org": "INSTITUT PASTEUR",
+   "location": "Paris, France",
+   "description": "French nonprofit biomedical research foundation",
+   "title": "Summer Research Intern (Advisor: Prof. Marc Lecuit, MD)",
+   "dates": "Summer 2024",
+   "bullets": [
+    "Modeled *Listeria monocytogenes* infection progression within host and investigated virulence genes in wet lab",
+    "Won Princeton ORFE Summer Research Grant (Vijay Kumar Gupta Fund) covering internship"
+   ]
+  }
+ ],
+ "additional": [
+  "Languages: French (fluent)",
+  "Personal Project: Developed portfolio manager suggesting trades for own brokerage account (CVXPY); adding published cost-aware trading rule raised annualized return 6.9% to 8.6%, cut turnover 12.2x to 4.8x/year (2014 - 2026 backtest)",
+  "Interests: Figure skating (U.S. Figure Skating Association National Development Team, 2019 - 2022)"
+ ],
+ "layout": {
+  "section_gap": 420,
+  "entry_gap": 270
+ }
+}
