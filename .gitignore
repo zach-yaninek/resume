@@ -1,0 +1,5 @@
+# Full resume content and builds (phone, Teleos in-house figures) stay local
+resume.private.json
+private/
+*.private.*
+~$*
