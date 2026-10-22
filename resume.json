@@ -11,9 +11,9 @@
    "degree_line": "Candidate for Master of Business Analytics, Operations Research Center, August 2027",
    "dates": "2026 - Present",
    "bullets": [
-    "Coursework: Machine Learning, Optimization Methods, Advanced Analytics Edge, Analytics Lab",
+    "Coursework: Machine Learning, Optimization Methods, Advanced Analytics Edge, Analytics Lab, AI Studio",
     "Machine Learning Project (MIT Sundai Hack): Built and deployed glucose app; XGBoost R² rose from 0.21 to 0.31 for unseen participants by adding fasting labs to meal log and pre-meal glucose (1,382 meals; FastAPI, React)",
-    "AI Agent Project (MIT AI Studio): Designed NANDA Town multi-agent fault test; all messages from 1 of 4 agents arrived garbled, yet both validators passed, checking what was sent, not what arrived; opened pull request proposing fix",
+    "AI Agent Project (MIT Media Lab AI Studio): Designed NANDA Town multi-agent fault test; all messages from 1 of 4 agents arrived garbled, yet both validators passed, checking what was sent, not what arrived; opened PR proposing fix",
     "Clubs: MIT Sloan Healthcare Club, MIT Figure Skating Club, Sundai Club"
    ]
   },
