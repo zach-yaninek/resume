@@ -20,11 +20,13 @@
   {
    "org": "PRINCETON UNIVERSITY",
    "location": "Princeton, NJ",
-   "degree_line": "B.S.E. in Operations Research and Financial Engineering, summa cum laude, GPA 3.96/4.00",
+   "degree_line": "B.S.E. in Operations Research and Financial Engineering, summa cum laude",
    "dates": "2022 - 2026",
    "bullets": [
     "Honors: Phi Beta Kappa, Tau Beta Pi, Sigma Xi, Kenneth H. Condit Prize, Fulbright France grant (declined)",
-    "Teaching: Undergraduate Course Assistant for calculus and linear algebra (2024 - 2026); Minor in French"
+    "Grant: Princeton ORFE Summer Research Grant (Vijay Kumar Gupta Fund) funded Institut Pasteur internship (2024)",
+    "Teaching: Undergraduate Course Assistant for calculus and linear algebra (2024 - 2026)",
+    "Minor: French"
    ]
   }
  ],
@@ -64,15 +66,15 @@
    "title": "Summer Research Intern (Advisor: Prof. Marc Lecuit, MD)",
    "dates": "Summer 2024",
    "bullets": [
-    "Investigated *Listeria monocytogenes* virulence genes at bench; modeled host infection, analyzed data in Python",
-    "Won Princeton ORFE Summer Research Grant (Vijay Kumar Gupta Fund) covering internship"
+    "Investigated *Listeria monocytogenes* virulence genes through bench work",
+    "Modeled host infection progression and analyzed data in Python"
    ]
   }
  ],
  "additional": [
   "Languages: French (fluent)",
   "Personal Project: Developed portfolio manager suggesting trades for own brokerage account (CVXPY); adding published cost-aware trading rule raised annualized return 6.9% to 8.6%, cut turnover 12.2x to 4.8x/year (2014 - 2026 backtest)",
-  "Interests: Figure skating (U.S. Figure Skating Association National Development Team, 2019 - 2022)"
+  "Interests: Figure skater on U.S. Figure Skating Association National Development Team (2019 - 2022)"
  ],
  "layout": {
   "section_gap": 420,
